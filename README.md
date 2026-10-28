@@ -5,7 +5,7 @@ Idea taken from Edge's Audio Logger.
 
 ## Link
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/animationlogger/refs/heads/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/animationlogger/master/source"))()
 ```
 ## Basic functions
 ### Settings
