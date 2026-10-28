@@ -1,13 +1,11 @@
 # Animation Logger
 An all-in-one game research tool! It loads all the animations that are currently playing!
 
-Idea taken from Edge's Audio Logger. 
-
-> **OPEN SOURCE CODE**
+Idea taken from Edge's Audio Logger.
 
 ## Link
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/Animation-Logger/refs/heads/main/Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalScriptMaker/animationlogger/refs/heads/main/Script"))()
 ```
 ## Basic functions
 ### Settings
